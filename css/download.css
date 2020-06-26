@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  .button
+  {
+      text-align: center;
+      margin-top: 400px;
+  }
+  .chess {
+    background-image: url('../img/chess.png');
+    min-height: 100%;
+}
+.ptext {
+    position: absolute;
+    top: 55%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.ptext .border {
+    background-color: #111;
+    color: #fff;
+    padding: 20px;
+}
+
+.ptext .border.trans {
+    background-color: transparent;
+}
+
+.right-text {
+   text-align: right;
+   margin-right: 450px;
+   padding-bottom: 20px;
+  
+}
+ .image
+{
+   width: 800px;
+    margin-left: 110px;
+}
+.article
+{
+    margin-top: 10px;
+}

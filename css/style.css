@@ -5,18 +5,27 @@
 
 /*NAV BAR*/
 
-body, html{
+body,html{
     overflow-x: hidden;
     height: 100%;
     margin: 0;
     font-size: 16px;
     font-family: "Lato", sans-serif;
     font-weight: 400;
-    line-height: 1.8em;
+    line-height: 2em;
     color: #666;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Prompt', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+.heading {
+  height: 50px;
+}
+
+p{
+   margin-left: 275px;
+   margin-right: 275px;
 }
 
 .unity, .game, .pimg3 {
@@ -29,7 +38,7 @@ body, html{
 }
 
 .unity {
-    background-image: url('../img/unity.jpg');
+    background-image: url('../img/homepage.png');
     min-height: 100%;
 }
 
@@ -77,6 +86,11 @@ body, html{
 
 .ptext .border.trans {
     background-color: transparent;
+}
+
+.countryFlag {
+    width: 100px;
+    height: 100px;
 }
 
 .image {
