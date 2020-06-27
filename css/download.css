@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+   
 }
 
 body {
-    background-color: #1f1e1e;
+    background-color: #B5A596;
 }
 
 .btn {
@@ -43,15 +44,17 @@ body {
     border-radius: 25px;
     margin-left: 50px;
 }
-  .button
-  {
-      text-align: left;
-      position:center;
-  }
-  .chess {
+
+.button {
+    text-align: left;
+    position: center;
+}
+
+.chess {
     background-image: url('../img/chess.png');
     min-height: 100%;
 }
+
 .ptext {
     position: absolute;
     top: 55%;
@@ -64,7 +67,7 @@ body {
 }
 
 .ptext .border {
-    background-color: #111;
+    background-color: #DDD2CE;
     color: #fff;
     padding: 20px;
 }
@@ -74,35 +77,36 @@ body {
 }
 
 .right-text {
-   text-align: right;
-   margin-right: 450px;
-   padding-bottom: 20px;
-  
+    text-align: right;
+    margin-right: 450px;
+    padding-bottom: 20px;
 }
- .image
-{
-   width: 800px;
+
+.image {
+    width: 800px;
     margin-left: 110px;
 }
-.article
-{
+
+.article {
     margin-top: 10px;
 }
 
 .snimka {
     margin-left: 700px;
-    margin-top: -530px;
+    margin-top: -550px;
     border-radius: 15px;
 }
 
-h1{
-    text-align:center;
-    margin-top:18px;
-    color:white;
-    font-size:24px;
+h1 {
+    text-align: center;
+    height: 35px;
+    color: black;
+    font-size: 24px;
+    background-color: #ECE3E1;
 }
 
 .k1 {
-    margin-top: 160px;
+    margin-top: 190px;
     border-radius: 25px;
+    border-top: 4px solid black;
 }
