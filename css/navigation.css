@@ -2,30 +2,31 @@
     font-family: "Montserrat", sans-serif;
 }
 
-.introduction .nav-animation {
-    background-color:#696b69 ;
-    border: none;
-    position: fixed;
-    width: 100%;
-    min-height: 7vh;
-}
+    .introduction .nav-animation {
+        background-color: #696b69;
+        border: none;
+        position: fixed;
+        width: 100%;
+        min-height: 7vh;
+    }
 
-.introduction nav {
-    width: 100%;
-    z-index: 10;
-    -webkit-transition: all 0.10s;
-    transition: all 0.5s;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    min-height: 6vh;
-    border-bottom: 1.5px solid white;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    background-color: #696b69 ;
-    opacity: 0.9;
-}
+    .introduction nav {
+        width: 100%;
+        z-index: 10;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        min-height: 6vh;
+        border-bottom: 1.5px solid white;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        background: url('../img/wood.jpg') no-repeat;
+        opacity: 0.95;
+        position: fixed;
+        font-size: 26px;
+        padding: 16px;
+    }
 .introduction nav .nav-links {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -34,6 +35,8 @@
     -ms-flex-pack: distribute;
     justify-content: space-around;
     flex-basis: 100%;
+
+
 }
 
 .introduction nav .nav-links a {
@@ -43,6 +46,7 @@
 
 .introduction nav .nav-links :hover {
     opacity: 0.8;
+    transition:0.3s;
 }
 
 .countryFlag {

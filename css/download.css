@@ -1,19 +1,52 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
+
+body {
+    background-color: #1f1e1e;
+}
+
 .btn {
-    background-color: DodgerBlue;
+    background-color: #666;
     border: none;
     color: white;
     padding: 12px 30px;
     cursor: pointer;
-    font-size: 20px;
-  }
+    font-size: 30px;
+    margin-top: 170px;
+    border-radius: 25px;
+    margin-left: 50px;
+}
+
+.btn1 {
+    background-color: #666;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 30px;
+    margin-top: 170px;
+    border-radius: 25px;
+    margin-left: 50px;
+}
+
+.btn2 {
+    background-color: #666;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 30px;
+    margin-top: 170px;
+    border-radius: 25px;
+    margin-left: 50px;
+}
   .button
   {
-      text-align: center;
-      margin-top: 400px;
+      text-align: left;
+      position:center;
   }
   .chess {
     background-image: url('../img/chess.png');
@@ -54,4 +87,22 @@
 .article
 {
     margin-top: 10px;
+}
+
+.snimka {
+    margin-left: 700px;
+    margin-top: -530px;
+    border-radius: 15px;
+}
+
+h1{
+    text-align:center;
+    margin-top:18px;
+    color:white;
+    font-size:24px;
+}
+
+.k1 {
+    margin-top: 160px;
+    border-radius: 25px;
 }
