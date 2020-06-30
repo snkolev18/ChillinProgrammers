@@ -64,6 +64,13 @@ var textTranslation = {
         'bg': `Изтегли за Windows`
     },
 
+    "mac": {
+        'en': `Download For Mac`,
+
+        'bg': `Изтегли за Mac`
+    },
+
+
     "stoqn": {
         'en': `Stoqn Kolev`,
 
@@ -106,6 +113,61 @@ var textTranslation = {
         'bg': `Калин Червенков`
     },
 
+    "team": {
+        'en': `Our team`,
+
+        'bg': `Нашият отбор`
+    },
+
+    "director": {
+        'en': `Game director`,
+
+        'bg': `Нашичт отбор`
+    },
+
+    "director-role": {
+        'en': `Told us what the game should be and help with tha game and the site.`,
+
+        'bg': `Каза ни каква трябва да е игра и помогна с нейната изработка и с тази на сайта`
+    },
+
+    "manager": {
+        'en': `Manager`,
+
+        'bg': `Мениджър`
+    },
+
+    "manager-role": {
+        'en': `Organize our team. And he helped with teamwork Also helped with the game.`,
+
+        'bg': `Организира нашият отобра. Помогна ни и с отборната работа. И помогна с направата на играта`
+    },
+
+    "dev": {
+        'en': `Developer`,
+
+        'bg': `Разработчик`
+    },
+
+    "dev-role": {
+        'en': `Write the game with the other 2 developers and helped with the site.`,
+
+        'bg': `Направи голяма част от играта с другите разработчици и помогна за сайта`
+    },
+
+    "designer": {
+        'en': `Designer`,
+
+        'bg': `Дизайнер`
+    },
+
+    "designer-role": {
+        'en': `Told us how should the game and the site look that they can be good looking`,
+
+        'bg': `Каза ни как трябва да изглеждат нашата игра и сайт за да може да са привлекателни`
+    },
+
+   
 
 
 }
