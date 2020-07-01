@@ -21,7 +21,8 @@
         -webkit-box-align: center;
         -ms-flex-align: center;
         align-items: center;
-        background: url('../img/wood2.jpg') repeat;
+        background: url('../img/wood2.jpg') ;
+        width: 100%;
         opacity: 0.95;
         position: fixed;
         font-size: 26px;
