@@ -146,7 +146,7 @@ var textTranslation = {
     "manager-role": {
         'en': `Organize our team. And he helped with teamwork Also helped with the game.`,
 
-        'bg': `Организира нашият отобра. Помогна ни и с отборната работа. И помогна с направата на играта`
+        'bg': `Организира нашият отобра. Помогна ни и с отборната работа.`
     },
 
     "dev": {
