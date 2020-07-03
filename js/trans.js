@@ -64,6 +64,12 @@ var textTranslation = {
         'bg': `Изтегли за Windows`
     },
 
+    "Android": {
+        'en': `Download For Android`,
+
+        'bg': `Изтегли за Android`
+    },
+
     "mac": {
         'en': `Download For Mac`,
 
